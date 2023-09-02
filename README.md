@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selhack01&show_icons=true&locale=en" alt="selhack01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selhack01&" alt="selhack01" /></p>
+
+![snake gif](https://github.com/selhack01/selhack01/blob/output/github-contribution-grid-snake.gif)
