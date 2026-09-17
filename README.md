@@ -7,9 +7,3 @@
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selhack01&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
